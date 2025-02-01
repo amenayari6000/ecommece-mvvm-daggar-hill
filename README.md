@@ -47,8 +47,6 @@ This project utilizes modern Android development tools and best practices:
 Check out the demo of the app: [Watch Demo](https://youtu.be/lxqeEpt1D5o?si=IUsclAQy-SeLqtP-)
 
 ## Screenshots
-
-Here are some screenshots of the app
 <img src="https://github.com/user-attachments/assets/1ef0130c-8564-43fe-a083-002d4b80a756" width="200">
 <img src="https://github.com/user-attachments/assets/e640a1d9-90f8-4390-af91-a9b741fe9b40" width="200">
 <img src="https://github.com/user-attachments/assets/c2b207dd-2fff-4fdb-b763-02f707c1f529" width="200">
