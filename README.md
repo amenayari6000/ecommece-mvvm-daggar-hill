@@ -49,13 +49,13 @@ Check out the demo of the app: [Watch Demo](https://youtu.be/lxqeEpt1D5o?si=IUsc
 ## Screenshots
 
 Here are some screenshots of the app
-<img src="https://github.com/user-attachments/assets/1ef0130c-8564-43fe-a083-002d4b80a756" width="600">
-<img src="https://github.com/user-attachments/assets/e640a1d9-90f8-4390-af91-a9b741fe9b40" width="600">
-<img src="https://github.com/user-attachments/assets/c2b207dd-2fff-4fdb-b763-02f707c1f529" width="600">
-<img src="https://github.com/user-attachments/assets/7a9940e1-a724-4336-9d64-b0067a9e6df6" width="600">
-<img src="https://github.com/user-attachments/assets/b46c342a-9993-4708-8f58-e81b7467c0ed" width="600">
-<img src="https://github.com/user-attachments/assets/8bdd1cc0-5141-4f53-a95f-14ee69ee8ccc" width="600">
-<img src="https://github.com/user-attachments/assets/28ce965a-d617-4c2d-8c1e-da8b662b1ea4" width="600">
-<img src="https://github.com/user-attachments/assets/4bfd0c79-c444-4563-b7c9-4830179e53e8" width="600">
-<img src="https://github.com/user-attachments/assets/83fac547-c5d6-4b17-af52-81932ad331f6" width="600">
+<img src="https://github.com/user-attachments/assets/1ef0130c-8564-43fe-a083-002d4b80a756" width="300">
+<img src="https://github.com/user-attachments/assets/e640a1d9-90f8-4390-af91-a9b741fe9b40" width="300">
+<img src="https://github.com/user-attachments/assets/c2b207dd-2fff-4fdb-b763-02f707c1f529" width="300">
+<img src="https://github.com/user-attachments/assets/7a9940e1-a724-4336-9d64-b0067a9e6df6" width="300">
+<img src="https://github.com/user-attachments/assets/b46c342a-9993-4708-8f58-e81b7467c0ed" width="300">
+<img src="https://github.com/user-attachments/assets/8bdd1cc0-5141-4f53-a95f-14ee69ee8ccc" width="300">
+<img src="https://github.com/user-attachments/assets/28ce965a-d617-4c2d-8c1e-da8b662b1ea4" width="300">
+<img src="https://github.com/user-attachments/assets/4bfd0c79-c444-4563-b7c9-4830179e53e8" width="300">
+<img src="https://github.com/user-attachments/assets/83fac547-c5d6-4b17-af52-81932ad331f6" width="300">
 
