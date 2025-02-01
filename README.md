@@ -60,6 +60,9 @@ Check out the demo of the app: [Watch Demo](https://youtu.be/lxqeEpt1D5o?si=IUsc
     <img src="https://github.com/user-attachments/assets/c2b207dd-2fff-4fdb-b763-02f707c1f529" width="150">
     <p>Detail</p>
   </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="text-align: center; width: 30%; margin-bottom: 10px;">
     <img src="https://github.com/user-attachments/assets/7a9940e1-a724-4336-9d64-b0067a9e6df6" width="150">
     <p>Bag</p>
@@ -72,6 +75,9 @@ Check out the demo of the app: [Watch Demo](https://youtu.be/lxqeEpt1D5o?si=IUsc
     <img src="https://github.com/user-attachments/assets/8bdd1cc0-5141-4f53-a95f-14ee69ee8ccc" width="150">
     <p>Success</p>
   </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="text-align: center; width: 30%; margin-bottom: 10px;">
     <img src="https://github.com/user-attachments/assets/28ce965a-d617-4c2d-8c1e-da8b662b1ea4" width="150">
     <p>Favorites</p>
