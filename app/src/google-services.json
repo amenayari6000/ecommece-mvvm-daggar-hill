@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085773763761",
+    "project_id": "ecommerce-9571b",
+    "storage_bucket": "ecommerce-9571b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085773763761:android:7051aad9e486b3424d3e90",
+        "android_client_info": {
+          "package_name": "com.walid.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDar6wVQflvjUJGMkc3CUz6XuQhSbibjpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

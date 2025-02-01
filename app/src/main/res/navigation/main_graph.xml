@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.walid.ecommerce.presentation.home.HomeFragment"
+        android:label="HomeFragment">
+        <action
+            android:id="@+id/action_homeFragment_to_productDetailFragment"
+            app:destination="@id/detailFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_bagFragment"
+            app:destination="@id/bagFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bagFragment"
+        android:name="com.walid.ecommerce.presentation.bag.BagFragment"
+        android:label="BagFragment">
+        <action
+            android:id="@+id/action_bagFragment_to_paymentFragment"
+            app:destination="@id/paymentFragment" />
+        <action
+            android:id="@+id/action_bagFragment_to_productDetailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/favoritesFragment"
+        android:name="com.walid.ecommerce.presentation.favorites.FavoritesFragment"
+        android:label="FavoritesFragment">
+        <action
+            android:id="@+id/action_favoritesFragment_to_productDetailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.walid.ecommerce.presentation.profile.ProfileFragment"
+        android:label="ProfileFragment" />
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.walid.ecommerce.presentation.detail.DetailFragment"
+        android:label="ProductDetailFragment">
+        <action
+            android:id="@+id/action_productDetailFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+        <argument
+            android:name="product"
+            app:argType="com.walid.ecommerce.data.model.Product" />
+    </fragment>
+    <fragment
+        android:id="@+id/paymentFragment"
+        android:name="com.walid.ecommerce.presentation.payment.PaymentFragment"
+        android:label="PaymentFragment">
+        <action
+            android:id="@+id/action_paymentFragment_to_paymentSuccessFragment"
+            app:destination="@id/paymentSuccessFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/paymentSuccessFragment"
+        android:name="com.walid.ecommerce.presentation.paymentsuccess.PaymentSuccessFragment"
+        android:label="PaymentSuccessFragment">
+        <action
+            android:id="@+id/action_paymentSuccessFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <dialog
+        android:id="@+id/searchFragment"
+        android:name="com.walid.ecommerce.presentation.search.SearchFragment"
+        android:label="SearchFragment">
+        <action
+            android:id="@+id/searchToDetail"
+            app:destination="@id/detailFragment" />
+    </dialog>
+</navigation>
